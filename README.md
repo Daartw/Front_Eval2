@@ -131,3 +131,4 @@ response = requests.post(f'{BACKEND_URL}/api/usuarios', json=datos_usuario)
 - La aplicación está diseñada para funcionar con el backend API de este proyecto
 # Front_Eval2
 # Front_Eval2
+# Front_Eval2
