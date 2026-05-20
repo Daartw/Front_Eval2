@@ -130,3 +130,4 @@ response = requests.post(f'{BACKEND_URL}/api/usuarios', json=datos_usuario)
 - En producción, establece `DEBUG=False` y usa una `SECRET_KEY` segura
 - La aplicación está diseñada para funcionar con el backend API de este proyecto
 # Front_Eval2
+# Front_Eval2
